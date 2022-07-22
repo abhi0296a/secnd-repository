@@ -1,0 +1,2 @@
+# secnd-repository
+artifacts
